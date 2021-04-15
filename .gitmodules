@@ -1,0 +1,3 @@
+[submodule "envoy"]
+	path = envoy
+	url = http://10.10.1.119:8080/sejong/envoy.git
